@@ -1,8 +1,0 @@
-# Ignore Node.js dependencies
-node_modules/
-
-# Ignore DFX-related files
-.dfx/
-
-# Ignore environment variables
-.env

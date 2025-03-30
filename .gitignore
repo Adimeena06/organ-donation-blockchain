@@ -1,0 +1,9 @@
+.dfx/
+.env
+ai-service/
+backend/
+frontend/
+canister_ids.json
+dfx.json
+install.sh
+src/
